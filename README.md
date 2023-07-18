@@ -1,6 +1,6 @@
-# Accenture Virtual Internship - Data Analytics and Visualization on Foreage 📊
+# Accenture Virtual Internship - Data Analytics and Visualization on Forage 📊
 
-![Foreage](https://www.theforage.com/dashboard)
+![Forage](https://tse2.mm.bing.net/th?id=OIP.-BU_-wZl04pfU7nWzEreVQHaB5&pid=Api&P=0&h=180)
 
 This repository contains the work done during the **Accenture Virtual Internship** on **Data Analytics and Visualization** at **Foreage**. The internship focused on merging datasets according to a data model, performing data cleaning, creating visualizations, deriving analytics insights, preparing a presentation, and recording the presentation.
 
