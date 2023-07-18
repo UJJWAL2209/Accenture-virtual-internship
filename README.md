@@ -51,7 +51,7 @@ As part of the internship, I prepared a professional presentation summarizing th
 
 ## Recorded Presentation ▶️
 
-I recorded the presentation and uploaded it to [Link to Recorded Presentation](link_to_record) for easy accessibility.
+I recorded the presentation and uploaded it to [Link to Recorded Presentation](https://github.com/lonecoder69/Accenture-virtual-internship/blob/main/presentation%20recording.mp4) for easy accessibility.
 
 ## Contributing 🤝
 
