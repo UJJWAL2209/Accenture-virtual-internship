@@ -1,6 +1,6 @@
 # Accenture Virtual Internship - Data Analytics and Visualization on Foreage 📊
 
-![Foreage](link_to_foreage_image)
+![Foreage](https://www.theforage.com/dashboard)
 
 This repository contains the work done during the **Accenture Virtual Internship** on **Data Analytics and Visualization** at **Foreage**. The internship focused on merging datasets according to a data model, performing data cleaning, creating visualizations, deriving analytics insights, preparing a presentation, and recording the presentation.
 
@@ -15,18 +15,19 @@ This repository contains the work done during the **Accenture Virtual Internship
 - [Presentation](#presentation)
 - [Recorded Presentation](#recorded-presentation)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description 📋
 
-In this virtual internship, I had the opportunity to work with Foreage's datasets and analyze their data using various data analytics and visualization techniques. The internship aimed to provide real-world experience in data analysis and presentation skills.
+In this virtual internship, I had the opportunity to work with Social Buzz's datasets and analyze their data using various data analytics and visualization techniques. The internship aimed to provide real-world experience in data analysis and presentation skills.
 
 ## Datasets 📊
 
-The datasets provided by Foreage were used to analyze various aspects of their business. These datasets include:
-- Dataset 1: 
-- Dataset 2: 
-- ...
+The datasets provided by Accenture were used to analyze various aspects of their business. These datasets include:
+- Dataset 1:REACTION DATASET 
+- Dataset 2:CONTENT DATASET
+- Dataset 3:REACTION TYPE DATASET 
+  
 
 ## Data Merging 🔄
 
@@ -38,7 +39,7 @@ The data cleaning process involved handling missing values, removing duplicates,
 
 ## Data Visualization 📊
 
-I used various data visualization tools and libraries to create insightful charts, graphs, and visual representations of the data. These visualizations helped in better understanding the data patterns and trends.
+I used various Python libraries to create insightful charts, graphs, and visual representations of the data. These visualizations helped in better understanding the data patterns and trends.
 
 ## Analytics Insights 💡
 
@@ -50,7 +51,7 @@ As part of the internship, I prepared a professional presentation summarizing th
 
 ## Recorded Presentation ▶️
 
-I recorded the presentation and uploaded it to [Link to Recorded Presentation](link_to_recorded_presentation) for easy accessibility.
+I recorded the presentation and uploaded it to [Link to Recorded Presentation](link_to_record) for easy accessibility.
 
 ## Contributing 🤝
 
